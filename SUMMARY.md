@@ -11,6 +11,7 @@
   * [JS基础知识-原型系统](js-zhi-shi/untitled/js-ji-chu-zhi-shi-yuan-xing-xi-tong.md)
   * [JS基础知识-异步操作](js-zhi-shi/untitled/js-ji-chu-zhi-shi-yi-bu-cao-zuo.md)
   * [JS基础知识-模块规范](js-zhi-shi/untitled/js-ji-chu-zhi-shi-mo-kuai-gui-fan.md)
+  * [JS知识测验](js-zhi-shi/untitled/js-zhi-shi-ce-yan.md)
 
 ## TS知识 <a id="ts-ji-chu-yu-si-xiang"></a>
 
@@ -24,4 +25,5 @@
     * [TS访问修饰符](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-ji-chu-lei-xing-xi-tong/ts-fang-wen-xiu-shi-fu.md)
   * [TS模块规范](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-mo-kuai-gui-fan.md)
   * [TS类型系统的设计思想](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-lei-xing-xi-tong-de-she-ji-si-xiang.md)
+  * [TS知识测验](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-zhi-shi-ce-yan.md)
 
