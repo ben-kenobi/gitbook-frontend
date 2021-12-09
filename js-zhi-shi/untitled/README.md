@@ -13,9 +13,9 @@ description: JS语言特征和其背后的设计思想。
 
 > JS的标准一直在更新，且JS存在多种模块规范，这里只针对ES6标准，ESM模块规范。
 
-\*\*\*\*
+****
 
- **前提知识：**
+&#x20;**前提知识：**
 
 * 对JS语言有粗略的了解
 * 有其他语言一年以上的编程经验
@@ -28,7 +28,7 @@ description: JS语言特征和其背后的设计思想。
 
 **看下面一段关于JS语言定义：**
 
-> JavaScript \(often shortened to JS\) is an easy to learn and also powerful scripting language，it is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, which can be used to design / program how the web pages behave on the occurrence of an event. but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
+> JavaScript (often shortened to JS) is an easy to learn and also powerful scripting language，it is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, which can be used to design / program how the web pages behave on the occurrence of an event. but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
 
 
 
@@ -54,13 +54,13 @@ description: JS语言特征和其背后的设计思想。
 * > JS是1995年由网景公司开发的一款依赖宿主运行环境的脚本语言，宿主环境是自家的浏览器
 * > 1996年网景将JS提交到欧洲标准组织ECMA，于是产生了ECMAScript标准，简称ES
 
-可以看出JS是一套基于浏览器的脚本语言，ES是将JS语言提取并制订出标准，方便各家不同浏览器可以共同按照该标准解释脚本，提高JS的兼容性。随着JS使用的普及和ES这套标准的扩大和完善，越来越多的厂商开发的工具使用ES标准，于是就有了node.js和Adobe Photoshop等使用JS作为脚本语言的工具。因此现在所说的JS一般不再单纯指浏览器脚本，更多的是指遵守ES标准的脚本。ES本身就只有语法标准，基于该语法标准开发的脚本，可以在支持该语法标准的宿主环境中解释运行\(现在JS引擎也开始编译后再运行）。
+可以看出JS是一套基于浏览器的脚本语言，ES是将JS语言提取并制订出标准，方便各家不同浏览器可以共同按照该标准解释脚本，提高JS的兼容性。随着JS使用的普及和ES这套标准的扩大和完善，越来越多的厂商开发的工具使用ES标准，于是就有了node.js和Adobe Photoshop等使用JS作为脚本语言的工具。因此现在所说的JS一般不再单纯指浏览器脚本，更多的是指遵守ES标准的脚本。ES本身就只有语法标准，基于该语法标准开发的脚本，可以在支持该语法标准的宿主环境中解释运行(现在JS引擎也开始编译后再运行）。
 
 
 
 这里主要介绍的就是JS中ES标准的部分，为了习惯，下面说的JS统一指ES（由于JS这个叫法更通用）
 
-\*\*\*\*
+****
 
 **回头来看下JS的几个特征：**
 
@@ -78,11 +78,11 @@ description: JS语言特征和其背后的设计思想。
 
 **3、支持多范式编程：**JS由于其灵活的语言特征，可以由开发者的编码偏好使用不同的编程范式进行开发，也支持多种编程范式混合开发。JS的对象系统使JS很好的支持面向对象，而且JS中函数是一等公民，因此也使JS能够非常简单的支持函数式开发。
 
-\*\*\*\*
+****
 
 **4、基于原型的对象系统**相对于Java或OC的对象系统是基于class的，JS的对象系统是基于原型，基于class的对象系统中类型与实例是明确的两种类型数据，基于原型的对象系统中类型与实例没有明显界限，所有对象（包括类型对象）都是从最上层的原型对象衍生而来。基于原型的与基于class的对象系统还有诸多不同之处，后面我们会详细介绍。
 
-\*\*\*\*
+****
 
 **5、动态的：**JS是一门动态语言，这动态主要表现在以下方面：
 
@@ -111,4 +111,3 @@ JS的动态特性可以为开发带来很多灵活的功能，比如运行时修
 {% endhint %}
 
 现在应该对JS有了基本的了解，下面来看看JS的基础内容。
-
