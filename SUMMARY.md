@@ -13,7 +13,7 @@
   * [JS基础知识-模块规范](js-zhi-shi/untitled/js-ji-chu-zhi-shi-mo-kuai-gui-fan.md)
   * [JS知识测验](js-zhi-shi/untitled/js-zhi-shi-ce-yan.md)
 
-## TS知识 <a id="ts-ji-chu-yu-si-xiang"></a>
+## TS知识 <a href="#ts-ji-chu-yu-si-xiang" id="ts-ji-chu-yu-si-xiang"></a>
 
 * [TS基础与思想](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/README.md)
   * [TS基础-类型系统](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-ji-chu-lei-xing-xi-tong/README.md)
@@ -26,4 +26,4 @@
   * [TS模块规范](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-mo-kuai-gui-fan.md)
   * [TS类型系统的设计思想](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-lei-xing-xi-tong-de-she-ji-si-xiang.md)
   * [TS知识测验](ts-ji-chu-yu-si-xiang/ts-ji-chu-yu-si-xiang/ts-zhi-shi-ce-yan.md)
-
+* [TS工程配置](ts-ji-chu-yu-si-xiang/ts-gong-cheng-pei-zhi.md)
